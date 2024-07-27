@@ -113,14 +113,41 @@
 .team-info-des {
   font-size: 16px;
   font-weight: 400;
+}
+.team-image {
+  display: flex;
+}
+.team-img {
+  border-radius: 24px;
+}
 
+/* Client section */
+.client-section {
+  margin-top: 100px;
 }
-.team-image{
-    display: flex;
-    
+.client-text {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 36px;
 }
-.team-img{
-    border-radius: 24px;
+.client-info {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.client-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 12px;
+}
+.client-name {
+  font-size: 24px;
+  font-weight: 500;
+}
+.client-company {
+  color: rgb(130, 130, 130);
+  font-size: 18px;
+  font-weight: 500;
 }
 
 @media only screen and (min-width: 200px) and (max-width: 576px) {
@@ -149,18 +176,24 @@
   }
 
   /* Team section */
-.team-section {
+  .team-section {
     flex-direction: column;
     gap: 50px;
   }
-  .team-image{
-      display: flex;
-      align-items: center;
-      gap: 10px;   
+  .team-image {
+    display: flex;
+    align-items: center;
+    gap: 10px;
   }
-  .team-img{
-      border-radius: 24px;
-      width: 160px;
-      height: auto;
+  .team-img {
+    border-radius: 24px;
+    width: 160px;
+    height: auto;
+  }
+
+  /* Client section */
+
+  .client-text {
+    font-size: 24px;
   }
 }
