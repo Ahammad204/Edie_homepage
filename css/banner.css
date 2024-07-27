@@ -23,24 +23,91 @@
   font-family: Poppins;
   font-size: 20px;
   font-weight: 500;
- 
 }
 .menu-icon img {
-    width: 25px;
-    height: 26px;
-    cursor: pointer;
-  }
-  .menu-icon{
-    display: none;
-  }
-@media only screen and (min-width: 200px) and (max-width: 576px){
-        
-/* Navbar style */
-.navigation {
+  width: 25px;
+  height: 26px;
+  cursor: pointer;
+}
+.menu-icon {
+  display: none;
+}
+
+/* Hero section style */
+.hero-section {
+  margin-top: 100px;
+}
+.banner-title,
+.banner-info {
+  margin-left: 200px;
+}
+.sub-title {
+  color: rgb(45, 156, 219);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.title {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.hero-img {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 40px;
+}
+
+.info-title {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.info {
+  color: rgb(79, 79, 79);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.newsletter-title {
+  color: rgb(79, 79, 79);
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.newsletter-input {
+  border-radius: 12px;
+  background: rgb(242, 242, 242);
+  width: fit-content;
+  padding: 5px 5px 5px 20px;
+}
+.newsletter-mail {
+  border: none;
+  outline: none;
+  background: rgb(242, 242, 242);
+}
+.join-btn {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 12px;
+  background: rgb(45, 156, 219);
+  color: white;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 576px) {
+  /* Navbar style */
+  .navigation {
     display: none;
   }
 
-  .menu-icon{
+  .menu-icon {
     display: inline-block;
   }
   .navigation.active {
@@ -52,11 +119,10 @@
     background-color: var(--background-color);
     width: 100%;
     gap: 20px;
-    
   }
-  .nav-options{
-   flex-direction: column;
+  .nav-options {
+    flex-direction: column;
     align-items: center;
     gap: 40px;
-}
+  }
 }
