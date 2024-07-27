@@ -1,0 +1,27 @@
+/* Header section styling */
+
+/* Navbar style */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-title {
+  font-family: Heebo;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.nav-options {
+  display: flex;
+  gap: 30px;
+  margin-right: 40px;
+}
+.nav-option {
+  cursor: pointer;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+ 
+}
