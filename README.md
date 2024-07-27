@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Checkout Page</h1>
+<h1 align="center">Edie Homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Dev challenges</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://ahammad204.github.io/checkout-page/">
+    <a href="https://ahammad204.github.io/Edie_homepage/">
       Live Link
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/solutions/8p3YrHhFBtI2Zjc6OY73">
+    <a href="https://legacy.devchallenges.io/solutions/eoQhF7XjTHvW60K9P0Vp">
       Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
+    <a href="https://legacy.devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0">
       Challenge
     </a>
   </h3>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/BsJb1Kd/website-overview.jpg)
+![screenshot](https://i.ibb.co/jhY0TrJ/preview.png)
 
-If Image is not working click [Here](https://i.ibb.co/BsJb1Kd/website-overview.jpg)
+If Image is not working click [Here](https://i.ibb.co/jhY0TrJ/preview.png)
 
 ### Built With
 
@@ -53,7 +53,7 @@ If Image is not working click [Here](https://i.ibb.co/BsJb1Kd/website-overview.j
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
@@ -68,3 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Dev Portfolio [Portfolio](https://ahammadportfolio.netlify.app/)
 - GitHub Profile [Github](https://github.com/Ahammad204)
 - Facebook Profile [Facebook](https://www.facebook.com/kaziahammad.ullah/)
+- Dev Challenge Profile [Dev Challenge](https://legacy.devchallenges.io/portfolio/Ahammad204)
