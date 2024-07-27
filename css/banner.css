@@ -86,6 +86,7 @@
   background: rgb(242, 242, 242);
   width: fit-content;
   padding: 5px 5px 5px 20px;
+  display: flex;
 }
 .newsletter-mail {
   border: none;
