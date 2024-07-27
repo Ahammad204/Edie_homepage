@@ -125,4 +125,34 @@
     align-items: center;
     gap: 40px;
   }
+
+  /* Hero section style */
+  .hero-section {
+    margin-top: 50px;
+  }
+  .banner-title,
+  .banner-info {
+    margin-left: 30px;
+  }
+  .sub-title {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .info-title {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .info {
+    
+    font-size: 12px;
+    font-weight: 400;
+   
+  }
+
 }
