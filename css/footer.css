@@ -1,0 +1,38 @@
+
+.footer-section{
+    background-color: #100E1D;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 160px;
+    color: #FFFFFF;
+}
+.footer-nav-option{
+    display: block;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+.social-img{
+    margin: 0px 5px;
+    cursor: pointer;
+}
+.credit{
+    background-color: #100E1D;
+    
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+@media only screen and (min-width: 200px) and (max-width: 576px){
+    
+.footer-section{
+    flex-direction: column;
+    padding: 40px;
+}
+.footer-nav-options,.footer-social{
+    margin-bottom: 30px;
+}
+
+
+}
